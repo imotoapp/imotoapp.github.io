@@ -2633,7 +2633,7 @@ blockquote {
     }
 }
 [u-title] {
-    color: #fff;
+    color: #47525d;
     font-weight: normal;
     line-height: 1.3
 }
@@ -2667,8 +2667,8 @@ blockquote {
     font-size: 3rem
 }
 [u-title~="size:larger"] {
-    font-size: 36px;
-    font-size: 3.6rem
+    font-size: 40px;
+    font-size: 4rem
 }
 [u-title~="size:largest"] {
     font-size: 40px;
@@ -3464,6 +3464,9 @@ a.LinkList-button:hover {
         flex-direction: row;
         text-align: left
     }
+}
+.AppHero-title {
+    margin-bottom: 26px
 }
 .AppHero-left {
     width: 100%;
